@@ -9,11 +9,11 @@ enabled = true
 
 [[kv_namespaces]]
 binding = "KV"
-id = "07f8fe12acba46bbba773dbf6b68aa81"
+id = "63c9a37d9aad44dc8f170c12bc3fa52d"
 
 [[d1_databases]]
 binding = "DB"
 database_name = "smail"
-database_id = "f591d1c7-0060-4d35-a146-099ec27b49b1"
-preview_database_id = "f591d1c7-0060-4d35-a146-099ec27b49b1"
+database_id = "058bb3f9-5dc4-4f00-8426-a24c9cd95de4"
+preview_database_id = "058bb3f9-5dc4-4f00-8426-a24c9cd95de4"
 migrations_dir = "app/drizzle"
